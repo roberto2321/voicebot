@@ -1,11 +1,6 @@
 
-# Agentic Company Researcher 
-
-![web ui](<static/ui-1.png>)
-
+# Multi-agent tool
 A multi-agent tool that generates comprehensive company research reports. The platform uses a pipeline of AI agents to gather, curate, and synthesize information about any company.
-
-https://github.com/user-attachments/assets/0e373146-26a7-4391-b973-224ded3182a9
 
 ## Features
 
