@@ -1,18 +1,9 @@
- [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/pogjester/company-research-agent/blob/main/README.md)
-[![zh](https://img.shields.io/badge/lang-zh-green.svg)](https://github.com/pogjester/company-research-agent/blob/main/README.zh.md)
-[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/pogjester/company-research-agent/blob/main/README.fr.md)
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/pogjester/company-research-agent/blob/main/README.es.md)
-[![jp](https://img.shields.io/badge/lang-jp-orange.svg)](https://github.com/pogjester/company-research-agent/blob/main/README.jp.md)
-[![kr](https://img.shields.io/badge/lang-ko-purple.svg)](https://github.com/pogjester/company-research-agent/blob/main/README.kr.md)
 
-
-# Agentic Company Researcher 🔍
+# Agentic Company Researcher 
 
 ![web ui](<static/ui-1.png>)
 
 A multi-agent tool that generates comprehensive company research reports. The platform uses a pipeline of AI agents to gather, curate, and synthesize information about any company.
-
-✨Check it out online! https://companyresearcher.tavily.com ✨
 
 https://github.com/user-attachments/assets/0e373146-26a7-4391-b973-224ded3182a9
 
@@ -132,7 +123,7 @@ The easiest way to get started is using the setup script, which automatically de
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/pogjester/tavily-company-research.git
+git clone https://github.com/roberto2321/voicebot.git
 cd tavily-company-research
 ```
 
@@ -151,7 +142,6 @@ The setup script will:
 - Guide you through setting up your environment variables
 - Optionally start both backend and frontend servers
 
-> **💡 Pro Tip**: Install [uv](https://github.com/astral-sh/uv) for significantly faster Python package installation:
 >
 > ```bash
 > curl -LsSf https://astral.sh/uv/install.sh | sh
@@ -170,7 +160,7 @@ If you prefer to set up manually, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/pogjester/tavily-company-research.git
+git clone https://github.com/roberto2321/voicebot.git
 cd tavily-company-research
 ```
 
@@ -238,7 +228,7 @@ The application can be run using Docker and Docker Compose:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/pogjester/tavily-company-research.git
+git clone https://github.com/roberto2321/voicebot.git
 cd tavily-company-research
 ```
 
